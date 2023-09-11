@@ -2,7 +2,7 @@
 
 
 
-Sou desenvolvedora web full stack, formada em Administração pela [CNEC](https://educacaosuperior.cnec.br/itaborai/institucional) e Pós-Graduada em Gestão Empresarial pela [Estácio](https://estacio.br/inscricao?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYSAtFh-hiQf7_DC_DFE78E8zvyBEM5687g4DlkxGvcHwimqYMvhuFcaAsekEALw_wcB&gclsrc=aw.ds), amo viajar ✈️ e amante de carros 🚗.
+Sou desenvolvedora web full stack, formada em Administração pela [CNEC](https://educacaosuperior.cnec.br/itaborai/institucional) e Pós-Graduada em Gestão Empresarial pela [Estácio](https://estacio.br/inscricao?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYSAtFh-hiQf7_DC_DFE78E8zvyBEM5687g4DlkxGvcHwimqYMvhuFcaAsekEALw_wcB&gclsrc=aw.ds), amo viajar ✈️ e sou amante de carros 🚗.
 
 
 
