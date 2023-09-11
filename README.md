@@ -7,7 +7,7 @@ Sou desenvolvedora web full stack, formada em Administração pela [CNEC](https:
 
 ## Tecnologias ⚙️
 
-<div style="display:inline">
+<div style="display:inblock">
 -Nest.Js <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
 -Express <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 </div>
