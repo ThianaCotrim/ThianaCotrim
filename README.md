@@ -1,4 +1,4 @@
-## *** Thiana Cotrim *** 👋
+## Oi, Prazer! Meu nome é Thiana Cotrim *** 👋
 
 
 <!--
