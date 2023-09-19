@@ -6,7 +6,7 @@ Quando assistir uns vídeos/aulas no youtube e coloquei em prática com pouco ap
 
 🎓 Estudando Desenvolvimento Web Full Stack e Engenharia de Software pela Driven Education. <br>
 🌱 Estou aprendendo sobre NextJs e Docker no momento.<br>
-💬 Pode me perguntar sobre qualquer coisa, talvez algumas coisas não saiba responder na hora, mas irei procurar e saber e responder assim que souber.<br>
+💬 Pode me perguntar sobre qualquer coisa, talvez eu não saiba responder na hora, mas irei procurar e saber e responder assim que souber.<br>
 😄 Pronomes: She/Her, ela/dela.<br>
 ⚡ Fun fact: Eu amo café ☕, viagens ✈️, um bom churrasco 🥩 e doces 🥧😍.
 
