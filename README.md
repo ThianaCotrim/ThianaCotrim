@@ -9,6 +9,7 @@ Sou desenvolvedora web full stack, formada em Administração pela [CNEC](https:
 
 <div align = "flex-start" style ="display: none;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
 
 </div>
 
