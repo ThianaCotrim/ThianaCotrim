@@ -5,7 +5,7 @@
 Sou desenvolvedora web full stack, formada em Administração pela [CNEC](https://educacaosuperior.cnec.br/itaborai/institucional) e Pós-Graduada em Gestão Empresarial pela [Estácio](https://estacio.br/inscricao?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYSAtFh-hiQf7_DC_DFE78E8zvyBEM5687g4DlkxGvcHwimqYMvhuFcaAsekEALw_wcB&gclsrc=aw.ds), amo viajar ✈️ e sou amante de carros 🚗.
 
 
-## Tecnologias ⚙️
+## Tecnologias e Ferramentas que utilizo ⚙️
 
 <div align = "flex-start" style ="display: none;">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -36,6 +36,12 @@ Sou desenvolvedora web full stack, formada em Administração pela [CNEC](https:
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+<img src="">
+
 </div>
 
 ## Entre em contato comigo ✉️
